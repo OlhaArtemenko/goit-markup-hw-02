@@ -38,29 +38,18 @@ address {
 font-style: normal;
 }
 
-.link-address-tel {
+.link-address {
     text-decoration: none;
     color: #434455;
 }
-.link-address-tel:hover {
+.link-address:hover {
     color: #404BBF;
 }
 
-.link-address-tel:focus {
-    color: #404BBF;
-}
-.link-address-mail {
-    text-decoration: none;
-    color: #434455;
-}
-
-.link-address-mail:hover {
+.link-address:focus {
     color: #404BBF;
 }
 
-.link-address-mail:focus {
-    color: #404BBF;
-}
 .hero-section {
     background-color: #2E2F42;
 }
