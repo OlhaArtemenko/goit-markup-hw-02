@@ -37,14 +37,28 @@ ul, ol {
 address {
 font-style: normal;
 }
-.link-address {
+
+.link-address-tel {
     text-decoration: none;
     color: #434455;
 }
-.link-address:hover {
+.link-address-tel:hover {
     color: #404BBF;
 }
-.link-address:focus {
+
+.link-address-tel:focus {
+    color: #404BBF;
+}
+.link-address-mail {
+    text-decoration: none;
+    color: #434455;
+}
+
+.link-address-mail:hover {
+    color: #404BBF;
+}
+
+.link-address-mail:focus {
     color: #404BBF;
 }
 .hero-section {
